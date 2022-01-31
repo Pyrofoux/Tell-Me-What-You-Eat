@@ -21,13 +21,17 @@ We intend to make ***Tell Me What You Eat*** a sort of *generative detective* ga
 
 
 ## Prototypes & Experiments
-### I. *Recipe-ography* — Recipes of the world
+### I. [*Recipe-ography*](https://pyrofoux.github.io/Recipe-ography/)  — Recipes of the world
 
 The first prototype of the project, *The Recipe-ography Machine*, was built as part of a game development module at the *Doctoral Centre for Intelligence in Games & Games Intelligence*, in 2021.
 
 We combined simple generative systems together to create the first iteration of a fictional interactive cookbook. Each culture spreads on the world map and creates recipes with ingredients available to them within their borders.
 
 [picture Nagada]
+
+
+
+[Try it here](https://pyrofoux.github.io/Recipe-ography/)
 
 Team: [Olliver Withington](https://twitter.com/o_withington), [Amy Smith](https://twitter.com/AmysImaginarium/), [Younès Rabii](https://knivesandpaintbrushes.org/younes.html)
 
@@ -45,10 +49,16 @@ On other platforms like [Reddit](https://www.reddit.com/r/proceduralgeneration/c
 
 By [Younès Rabii](https://knivesandpaintbrushes.org/younes.html)
 
-### III. *Lango Guesso* —
-https://pyrofoux.itch.io/lango-guesso
+### III. [*Lango Guesso*](pyrofoux.itch.io/lango-guesso)
+
+*« When civilizations explored the world around them, they gave names from their own tongue to each region. Can you guess where their homeland is, based on this atlas alone? »*
+
+
+*Lango Guesso* is a game jam prototype that aims to playtest only one of the deduction mechanics that would emerge in *Tell Me What You Eat*. Each population has a unique language, and as they explore the world, they give names from their languages to the regions. Here we retrovert the map generation process to be a dedecution game: Can you guess where those populations are located, based on the names of each region?
+
+Prototyped during the IGGI Game Jam 2022 by Younès Rabii.
+
+[Play it here](pyrofoux.itch.io/lango-guesso)
 
 ### Communication:
-- prototype
-- talk
-- cooking a recipe https://twitter.com/pyrofoux/status/1406553707412701185
+[talk]
