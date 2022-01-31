@@ -1,7 +1,7 @@
-## **Tell Me What You Eat**
+## ***Tell Me What You Eat***
 
-![ff](./media/dish_actual_recipe.png)
-**
+
+<img width="400" src="./media/dish_actual_recipe.jpeg" />
 
 
 > "Tell me what you eat, and I will tell you what you are."
@@ -27,7 +27,7 @@ The first prototype of the project, *The Recipe-ography Machine*, was built as p
 
 We combined simple generative systems together to create the first iteration of a fictional interactive cookbook. Each culture spreads on the world map and creates recipes with ingredients available to them within their borders.
 
-[picture Nagada]
+<img width="400" src="./media/recipe_nagada.png" /> 
 
 
 
@@ -41,7 +41,8 @@ We tried to cook our interpretation of one the new recipes generated within *Rec
 
 We gathered ingredients that tasted like the fantasy plants in *Recipe-ography*, and tried to follow the cooking instructions — as well as being creative within the constraints the recipe provided.
 
-[image ingredients]
+
+<img width="400" src="./media/ingredients_actual_recipe.jpeg" />  <img width="400" src="./media/dish_actual_recipe.jpeg" />
 
 The event was shared [live on Twitter](https://www.reddit.com/r/proceduralgeneration/comments/o90x7j/i_cooked_a_procedurally_generated_recipe_from_a/) with the audience reacting to our recreation of the recipe, giving their own suggestions and interpretations as we went.
 
@@ -53,6 +54,8 @@ By [Younès Rabii](https://knivesandpaintbrushes.org/younes.html)
 
 *« When civilizations explored the world around them, they gave names from their own tongue to each region. Can you guess where their homeland is, based on this atlas alone? »*
 
+<img width="400" src="./media/lango.gif" />
+
 
 *Lango Guesso* is a game jam prototype that aims to playtest only one of the deduction mechanics that would emerge in *Tell Me What You Eat*. Each population has a unique language, and as they explore the world, they give names from their languages to the regions. Here we retrovert the map generation process to be a dedecution game: Can you guess where those populations are located, based on the names of each region?
 
@@ -60,5 +63,12 @@ Prototyped during the IGGI Game Jam 2022 by Younès Rabii.
 
 [Play it here](pyrofoux.itch.io/lango-guesso)
 
-### Communication:
-[talk]
+### Talks
+
+*Recipe-ography: Generating Fictional Recipes From the Ground Up*
+
+Where we discussed the motivations for the first prototype, its architecture, its reception and emerging phenomena and its possible future.
+At the IGGI conference 2021.
+
+[Watch it here](http://www.youtube.com/watch?v=0JvGOF7RQO0D)
+
