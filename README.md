@@ -57,7 +57,7 @@ By [Younès Rabii](https://knivesandpaintbrushes.org/younes.html)
 <img width="400" src="./media/lango.gif" />
 
 
-*Lango Guesso* is a game jam prototype that aims to playtest only one of the deduction mechanics that would emerge in *Tell Me What You Eat*. Each population has a unique language, and as they explore the world, they give names from their languages to the regions. Here we retrovert the map generation process to be a dedecution game: Can you guess where those populations are located, based on the names of each region?
+*Lango Guesso* is a game jam prototype that aims to playtest only one of the deduction mechanics that would emerge in *Tell Me What You Eat*. Each population has a unique language, and as they explore the world, they give names from their languages to the regions. Here we reverse the map *generation* process to make it a *deduction* game: Can you guess where those populations are located, based on the names of each region?
 
 Prototyped during the IGGI Game Jam 2022 by Younès Rabii.
 
